@@ -1,0 +1,1 @@
+A game where each user is given three random prompts which they must combine into part of a story which the next player must use their three randomly generated words to continue the story from until a player fails
